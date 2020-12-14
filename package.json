@@ -1,0 +1,24 @@
+}
+  "name": "8-ball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin" : "startup_script.js",
+
+  "pkg" : {
+    "scripts": [
+      "./8-ball/8ball/*.js",
+      "./8-ball/8ball/*.html",
+      "./node_modules/*"
+    ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyman6868/8-ball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyman6868/8-ball/issues"
+  },
+  "homepage": "https://github.com/Kyman6868/8-ball#readme"
+}
